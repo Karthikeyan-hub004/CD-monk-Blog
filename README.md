@@ -58,6 +58,8 @@ Learning Outcomes
 - Responsive UI design
 - Debugging and performance improvements
 - Clean and reusable code practices
+- <img width="1905" height="920" alt="image" src="https://github.com/user-attachments/assets/e524631b-f7bc-4b9e-be1f-57529a45cde2" />
+
 
 About the Developer
 I am a passionate frontend developer seeking internship opportunities where I can contribute to real-world projects, learn from experienced developers, and grow into a full-time frontend engineer.
